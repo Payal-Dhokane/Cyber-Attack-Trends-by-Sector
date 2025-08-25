@@ -8,7 +8,7 @@
 
 ---
 
- Project Overview
+ Project Overview: 
 This project analyzes reported cyber incidents across multiple industries to identify trends and attack vectors.  
 The goal is to provide insights into which industries are most targeted and which attack types are most common, helping improve cybersecurity strategies.
 
