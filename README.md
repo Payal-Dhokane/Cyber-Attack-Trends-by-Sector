@@ -8,13 +8,13 @@
 
 ---
 
-## 📌 Project Overview
+ Project Overview
 This project analyzes reported cyber incidents across multiple industries to identify trends and attack vectors.  
 The goal is to provide insights into which industries are most targeted and which attack types are most common, helping improve cybersecurity strategies.
 
 ---
 
-## 🎯 Project Goals
+Project Goals
 1. *Frequency of attacks by sector and year*  
    - Understand which industries face the most incidents and observe trends over time.
 
@@ -23,7 +23,7 @@ The goal is to provide insights into which industries are most targeted and whic
 
 ---
 
-## 🗂 Dataset
+ Dataset
 - *Name:* Global Cyber Security Threats Dataset  
 - *Source:* Kaggle  
 - *Key Columns:*
@@ -40,7 +40,7 @@ The goal is to provide insights into which industries are most targeted and whic
 
 ---
 
-## 📊 Analysis & Visualizations
+ Analysis & Visualizations
 - *Line chart:* Attack frequency by industry over years  
 - *Bar chart:* Top 10 attack types  
 - *Pivot table & heatmap:* Industry vs Year attacks  
@@ -49,20 +49,20 @@ The goal is to provide insights into which industries are most targeted and whic
 
 ---
 
-## ✅ Key Insights
+ Key Insights
 - Certain industries are consistently targeted, while others face spikes in specific years.  
 - A few attack types dominate overall trends, indicating areas to prioritize defense.  
 
 ---
 
-## 💡 Recommendations
+ Recommendations
 - Strengthen cybersecurity measures in the most affected industries.  
 - Focus on defending against the top attack types.  
 - Standardize incident reporting to improve future analysis.
 
 ---
 
-## 📁 How to Use
+ How to Use
 1. Clone this repository:
    ```bash
    git clone https://github.com/Payal-Dhokane/Cyber-Attack-Trends-by-Sector.git
